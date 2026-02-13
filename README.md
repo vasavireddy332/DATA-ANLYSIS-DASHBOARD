@@ -20,6 +20,7 @@ This project highlights key trends, top-performing products/markets, and loss-ma
 - Built data model relationships and created key DAX measures for sales, profit, and returns analysis.
 - Designed an interactive dashboard with KPIs and visualizations to generate actionable business insights.
 ## Dashboard
+![image alt](https://github.com/vasavireddy332/DATA-ANLYSIS-DASHBOARD/blob/c8eeffcfd425edb08930a8982473a96fde78effe/Screenshot%20(44).png)
 <a href="C:\Users\saite\OneDrive\Pictures\Screenshots\Screenshot (44).png">
 ## Project Insights
 - Technology category contributes the highest sales, while Office Supplies and Furniture show varying performance.
